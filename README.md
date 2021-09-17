@@ -55,4 +55,4 @@
   enter location
   get weather
   
-Powered by youtube.com/watch?v=dtKciwk_si4
+Powered by https://youtube.com/watch?v=dtKciwk_si4
